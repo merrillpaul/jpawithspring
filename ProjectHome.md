@@ -1,0 +1,1 @@
+Just a sample JPA example using maven archetype  with spring xfire on top of appfuse
